@@ -17,5 +17,10 @@ Rasterisation theory demonstrations.
 ![Header Image](https://github.com/CoffeeCamel/Triangles/blob/main/Images/Screenshot_2020-10-21_02-54-44.png)\
 <sub><sup>100% Pure Canadian Lua<sup>†</sup></sup></sub>
 
+Many thanks to the following for creating clear and well-explained resources to learn from:
+- [Sebastian Lague](https://www.youtube.com/watch?v=HYAgJN3x4GA) (Also check out Coding Adventure series, he's got some great ideas and explains them quite well.)
+- [Maitreyi Joshi](https://www.youtube.com/watch?v=-OJJ8Z4AqWs)
+
+</br></br>
 Cardo-Regular.ttf is property of David J. Perry, used under the SIL Open Font License.\
 All other parts of this repository are under personal copyright.
