@@ -22,6 +22,6 @@ Many thanks to the following for creating clear and well-explained resources to 
 <li><a href="https://www.youtube.com/watch?v=HYAgJN3x4GA">Sebastian Lague</a></li>
 <li><a href="https://www.youtube.com/watch?v=-OJJ8Z4AqWs">Maitreyi Joshi</a></li>
 </ul>
-<p>Also, check out Sebastian's <a href="https://www.youtube.com/playlist?list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK">Coding Adventures</a> series. He's got some great ideas and explains them well.</br>
+<p>Also, check out Sebastian's <a href="https://www.youtube.com/playlist?list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK">Coding Adventures</a> series. He's got some great ideas and explains them well.</br></br>
 The <a href="http://scholarsfonts.net/cardofnt.html">Cardo</a> font is licensed under the SIL Open Font License.</br>
 All other parts of this repository are under personal copyright.</p>
