@@ -23,5 +23,5 @@ Many thanks to the following for creating clear and well-explained resources to 
 <li><a href="https://www.youtube.com/watch?v=-OJJ8Z4AqWs">Maitreyi Joshi</a></li>
 </ul>
 <p>Also, check out Sebastian's <a href="https://www.youtube.com/playlist?list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK">Coding Adventures</a> series. He's got some great ideas and explains them well.</br></br>
-Cardo-Regular.ttf is property of David J. Perry, used under the SIL Open Font License.\
+Cardo-Regular.ttf is property of David J. Perry, used under the SIL Open Font License.</br>
 All other parts of this repository are under personal copyright.</p>
