@@ -18,9 +18,11 @@ Rasterisation theory demonstrations.
 <sub><sup>100% Pure Canadian Lua<sup>†</sup></sup></sub>
 
 Many thanks to the following for creating clear and well-explained resources to learn from:
-- [Sebastian Lague](https://www.youtube.com/watch?v=HYAgJN3x4GA) (Also check out Coding Adventure series, he's got some great ideas and explains them quite well.)
+- [Sebastian Lague](https://www.youtube.com/watch?v=HYAgJN3x4GA)
 - [Maitreyi Joshi](https://www.youtube.com/watch?v=-OJJ8Z4AqWs)
+[//]: # (Break list.)
 
-</br></br>
+Also, check out Sebastian's (Coding Adventure)[https://www.youtube.com/playlist?list=PLFt_AvWsXl0ehjAfLFsp1PGaatzAwo0uK] series. He's got some great ideas and explains them well.
+
 Cardo-Regular.ttf is property of David J. Perry, used under the SIL Open Font License.\
 All other parts of this repository are under personal copyright.
