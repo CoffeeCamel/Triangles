@@ -1,6 +1,6 @@
 # Triangles
 
-Rasterisation theory demonstrations.
+Rasterisation theory demonstrations in Lua and LÖVE(11.3).
 - [x] Barycentric Coordinates
 - [x] Interpolation of Data within a Triangle
 - [x] Z-Buffer
